@@ -21,3 +21,25 @@
     padding: 10px 10px;
     cursor: pointer;
 }
+.cat1,.cat2, .cat3{
+    padding: 10px 20px;
+    border-radius: 10px;
+    
+}
+.cat1{
+    background-color: rgb(235, 196, 146)
+}
+.cat2{
+    background-color: lightpink;
+}
+.cat3{
+    background-color: powderblue;
+}
+.categories h1{
+    color: white;
+    cursor: pointer;
+}
+.categories img{
+    width: 100px;
+}
+
